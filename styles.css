@@ -1,0 +1,18 @@
+body{
+    background: #2F4F4F;
+    font-family: 'open_sansregular';
+    color: white;
+    margin-left: 0px;
+}
+.site-logo{
+	display: flex;
+	align-items: center;
+	background-color: #2F4F0F; 
+}
+li{
+    display: inline-block;
+    margin-top: 0%;
+}
+a{
+color: #F00F0F;
+}
